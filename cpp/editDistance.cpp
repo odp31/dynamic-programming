@@ -2,6 +2,9 @@
 // measures min num of edits required to transform one string to another 
 // edits can be insertions, deletions or substitutions 
 
+// time complexity: O(mn)
+// space complexity: O(mn)
+
 #include <iostream>
 #include <string>
 
